@@ -1,12 +1,19 @@
-## Hi there 👋
+# 🤖 UTH AI
 
-<!--
+Plataforma de inteligencia artificial y automatización para UTH Florida University.
 
-**Here are some ideas to get you started:**
+## Repositorios
 
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+| Repositorio | Descripción |
+|---|---|
+| [`uth-ai-core`](https://github.com/UTH-AI-Labs/uth-ai-core) | Orquestador de agentes IA con LangChain |
+| [`uth-ai-api`](https://github.com/UTH-AI-Labs/uth-ai-api) | Backend y capa de servicios con FastAPI |
+| [`uth-ai-web`](https://github.com/UTH-AI-Labs/uth-ai-web) | Dashboard interactivo con React |
+
+## Stack
+
+Python · LangChain · FastAPI · React · TypeScript · Docker
+
+## 📄 Licencia
+
+Privado — © UTH Florida University. Todos los derechos reservados.
