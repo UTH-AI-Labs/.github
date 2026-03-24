@@ -10,7 +10,7 @@ Plataforma de inteligencia artificial y automatización para UTH Florida Univers
 | [`oraculo-api`](https://github.com/UTH-AI-Labs/oraculo-api) | Backend y capa de servicios con FastAPI |
 | [`oraculo-web`](https://github.com/UTH-AI-Labs/oraculo-web) | Dashboard interactivo con React |
 | [`stories`](https://github.com/UTH-AI-Labs/stories) | Planificación General|
-| [`docs`](https://github.com/UTH-AI-Labs/docs) | Documentación General|
+| [`docs`](https://github.com/UTH-AI-Labs/docs) | Documentación Pública General|
 
 
 ## Stack
