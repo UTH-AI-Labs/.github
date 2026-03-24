@@ -6,10 +6,10 @@ Plataforma de inteligencia artificial y automatización para UTH Florida Univers
 
 | Repositorio | Descripción |
 |---|---|
-| [`uth-ai-core`](https://github.com/UTH-AI-Labs/uth-ai-core) | Orquestador de agentes IA con LangChain |
-| [`uth-ai-api`](https://github.com/UTH-AI-Labs/uth-ai-api) | Backend y capa de servicios con FastAPI |
-| [`uth-ai-web`](https://github.com/UTH-AI-Labs/uth-ai-web) | Dashboard interactivo con React |
-| [`uth-ai-stories`](https://github.com/UTH-AI-Labs/uth-ai-stories) | Planificación General|
+| [`oraculo-core`](https://github.com/UTH-AI-Labs/oraculo-core) | Orquestador de agentes IA con LangChain |
+| [`oraculo-api`](https://github.com/UTH-AI-Labs/oraculo-api) | Backend y capa de servicios con FastAPI |
+| [`oraculo-web`](https://github.com/UTH-AI-Labs/oraculo-web) | Dashboard interactivo con React |
+| [`stories`](https://github.com/UTH-AI-Labs/stories) | Planificación General|
 | [`docs`](https://github.com/UTH-AI-Labs/docs) | Documentación General|
 
 
